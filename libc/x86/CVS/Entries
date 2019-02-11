@@ -1,0 +1,12 @@
+/GNUmakerules/1.1.1.1/Mon Jan  6 21:05:21 2003//
+/bcopy.S/1.1.1.1/Mon Jan  6 21:05:21 2003//
+/bcopy16.S/1.1.1.1/Mon Jan  6 21:05:21 2003//
+/bzero.S/1.1.1.1/Mon Jan  6 21:05:21 2003//
+/gcc.S/1.1.1.1/Mon Jan  6 21:05:21 2003//
+/mcount_md.S/1.1.1.1/Mon Jan  6 21:05:21 2003//
+/memset.S/1.1.1.1/Mon Jan  6 21:05:21 2003//
+/ntoh.S/1.1.1.1/Mon Jan  6 21:05:21 2003//
+/setjmp.S/1.1.1.1/Mon Jan  6 21:05:21 2003//
+/sigcontext_dump.c/1.1.1.1/Mon Jan  6 21:05:21 2003//
+/stack_trace.c/1.1.1.1/Mon Jan  6 21:05:21 2003//
+D

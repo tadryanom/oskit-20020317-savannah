@@ -1,0 +1,26 @@
+/cronyx.c/1.1.1.1/Mon Jan  6 21:04:15 2003/-ko/
+/cx.c/1.1.1.1/Mon Jan  6 21:04:16 2003/-ko/
+/cxreg.h/1.1.1.1/Mon Jan  6 21:04:16 2003/-ko/
+/cy.c/1.1.1.1/Mon Jan  6 21:04:17 2003/-ko/
+/cyreg.h/1.1.1.1/Mon Jan  6 21:04:17 2003/-ko/
+/icu.h/1.1.1.1/Mon Jan  6 21:04:17 2003/-ko/
+/if_cx.c/1.1.1.1/Mon Jan  6 21:04:18 2003/-ko/
+/isa.h/1.1.1.1/Mon Jan  6 21:04:18 2003/-ko/
+/isa_device.h/1.1.1.1/Mon Jan  6 21:04:18 2003/-ko/
+/joy.c/1.1.1.1/Mon Jan  6 21:04:18 2003/-ko/
+/kbdtables.h/1.1.1.1/Mon Jan  6 21:04:19 2003/-ko/
+/lpt.c/1.1.1.1/Mon Jan  6 21:04:20 2003/-ko/
+/lptreg.h/1.1.1.1/Mon Jan  6 21:04:20 2003/-ko/
+/mse.c/1.1.1.1/Mon Jan  6 21:04:20 2003/-ko/
+/psm.c/1.1.1.1/Mon Jan  6 21:04:20 2003/-ko/
+/rc.c/1.1.1.1/Mon Jan  6 21:04:21 2003/-ko/
+/rcreg.h/1.1.1.1/Mon Jan  6 21:04:21 2003/-ko/
+/si.c/1.1.1.1/Mon Jan  6 21:04:22 2003/-ko/
+/si_code.c/1.1.1.1/Mon Jan  6 21:04:22 2003/-ko/
+/sio.c/1.1.1.1/Mon Jan  6 21:04:24 2003/-ko/
+/sioreg.h/1.1.1.1/Mon Jan  6 21:04:24 2003/-ko/
+/sireg.h/1.1.1.1/Mon Jan  6 21:04:24 2003/-ko/
+/syscons.c/1.1.1.1/Mon Jan  6 21:04:25 2003/-ko/
+/syscons.h/1.1.1.1/Mon Jan  6 21:04:25 2003/-ko/
+/timerreg.h/1.1.1.1/Mon Jan  6 21:04:25 2003/-ko/
+D

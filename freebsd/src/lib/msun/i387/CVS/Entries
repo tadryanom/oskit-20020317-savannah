@@ -1,0 +1,25 @@
+/i387_e_acos.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_e_asin.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_e_atan2.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_e_exp.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_e_fmod.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_e_log.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_e_log10.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_e_remainder.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_e_scalb.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_e_sqrt.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_s_atan.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_s_ceil.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_s_copysign.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_s_cos.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_s_finite.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_s_floor.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_s_ilogb.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_s_log1p.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_s_logb.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_s_rint.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_s_scalbn.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_s_significand.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_s_sin.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+/i387_s_tan.S/1.1.1.1/Mon Jan  6 21:04:02 2003/-ko/
+D

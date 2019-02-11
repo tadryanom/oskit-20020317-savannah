@@ -1,0 +1,18 @@
+/ansi.h/1.1.1.1/Mon Jan  6 21:03:29 2003/-ko/
+/cpu.h/1.1.1.1/Mon Jan  6 21:03:29 2003/-ko/
+/cpufunc.h/1.1.1.1/Mon Jan  6 21:03:29 2003/-ko/
+/devconf.h/1.1.1.1/Mon Jan  6 21:03:29 2003/-ko/
+/endian.h/1.1.1.1/Mon Jan  6 21:03:29 2003/-ko/
+/ipl.h/1.1.1.1/Mon Jan  6 21:03:29 2003/-ko/
+/limits.h/1.1.1.1/Mon Jan  6 21:03:30 2003/-ko/
+/param.h/1.1.1.1/Mon Jan  6 21:03:30 2003/-ko/
+/pcb.h/1.1.1.1/Mon Jan  6 21:03:30 2003/-ko/
+/proc.h/1.1.1.1/Mon Jan  6 21:03:30 2003/-ko/
+/pte.h/1.1.1.1/Mon Jan  6 21:03:30 2003/-ko/
+/random.h/1.1.1.1/Mon Jan  6 21:03:30 2003/-ko/
+/signal.h/1.1.1.1/Mon Jan  6 21:03:30 2003/-ko/
+/spl.h/1.1.1.1/Mon Jan  6 21:03:30 2003/-ko/
+/stdarg.h/1.1.1.1/Mon Jan  6 21:03:30 2003/-ko/
+/types.h/1.1.1.1/Mon Jan  6 21:03:30 2003/-ko/
+/vmparam.h/1.1.1.1/Mon Jan  6 21:03:30 2003/-ko/
+D

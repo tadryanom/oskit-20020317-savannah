@@ -1,0 +1,10 @@
+/sem.h/1.1.1.1/Mon Jan  6 21:09:32 2003//
+/sem_close.c/1.1.1.1/Mon Jan  6 21:09:32 2003//
+/sem_destroy.c/1.1.1.1/Mon Jan  6 21:09:32 2003//
+/sem_getvalue.c/1.1.1.1/Mon Jan  6 21:09:32 2003//
+/sem_init.c/1.1.1.1/Mon Jan  6 21:09:32 2003//
+/sem_open.c/1.1.1.1/Mon Jan  6 21:09:32 2003//
+/sem_unlink.c/1.1.1.1/Mon Jan  6 21:09:32 2003//
+/sem_util.c/1.1.1.1/Mon Jan  6 21:09:32 2003//
+/sem_wait_post.c/1.1.1.1/Mon Jan  6 21:09:33 2003//
+D

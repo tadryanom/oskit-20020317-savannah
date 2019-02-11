@@ -1,0 +1,15 @@
+/base_i16_a20.c/1.1.1.1/Mon Jan  6 21:05:10 2003//
+/i16_a20.c/1.1.1.1/Mon Jan  6 21:05:10 2003//
+/i16_abort.c/1.1.1.1/Mon Jan  6 21:05:10 2003//
+/i16_bios_main.c/1.2/Wed May 21 07:47:10 2003//
+/i16_exit.c/1.1.1.1/Mon Jan  6 21:05:10 2003//
+/i16_ext_mem.c/1.2/Wed May 21 07:47:10 2003//
+/i16_init_vm.S/1.1.1.1/Mon Jan  6 21:05:10 2003//
+/i16_init_vm.c/1.1.1.1/Mon Jan  6 21:05:10 2003//
+/i16_putchar.c/1.1.1.1/Mon Jan  6 21:05:10 2003//
+/i16_raw.S/1.2/Wed May 21 07:47:10 2003//
+/i16_raw.c/1.1.1.1/Mon Jan  6 21:05:10 2003//
+/i16_real_int.S/1.1.1.1/Mon Jan  6 21:05:10 2003//
+/i16_test_a20.S/1.1.1.1/Mon Jan  6 21:05:10 2003//
+/raw_real_int.c/1.1.1.1/Mon Jan  6 21:05:10 2003//
+D

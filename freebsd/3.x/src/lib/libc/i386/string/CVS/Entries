@@ -1,0 +1,21 @@
+/Makefile.inc/1.1.1.1/Mon Jan  6 20:59:39 2003/-ko/
+/bcmp.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+/bcopy.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+/bzero.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+/ffs.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+/index.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+/memchr.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+/memcmp.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+/memcpy.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+/memmove.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+/memset.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+/rindex.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+/strcat.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+/strchr.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+/strcmp.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+/strcpy.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+/strlen.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+/strncmp.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+/strrchr.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+/swab.S/1.1.1.1/Mon Jan  6 20:59:40 2003/-ko/
+D

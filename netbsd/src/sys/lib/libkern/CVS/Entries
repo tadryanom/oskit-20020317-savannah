@@ -1,0 +1,17 @@
+/bcmp.c/1.1.1.1/Mon Jan  6 21:08:42 2003//
+/bcopy.c/1.1.1.1/Mon Jan  6 21:08:42 2003//
+/bzero.c/1.1.1.1/Mon Jan  6 21:08:42 2003//
+/divdi3.c/1.1.1.1/Mon Jan  6 21:08:42 2003//
+/libkern.h/1.1.1.1/Mon Jan  6 21:08:42 2003//
+/memset.c/1.1.1.1/Mon Jan  6 21:08:42 2003//
+/moddi3.c/1.1.1.1/Mon Jan  6 21:08:42 2003//
+/qdivrem.c/1.1.1.1/Mon Jan  6 21:08:42 2003//
+/quad.h/1.1.1.1/Mon Jan  6 21:08:42 2003//
+/scanc.c/1.1.1.1/Mon Jan  6 21:08:42 2003//
+/skpc.c/1.1.1.1/Mon Jan  6 21:08:42 2003//
+/strcat.c/1.1.1.1/Mon Jan  6 21:08:42 2003//
+/strncasecmp.c/1.1.1.1/Mon Jan  6 21:08:42 2003//
+/strncmp.c/1.1.1.1/Mon Jan  6 21:08:42 2003//
+/strncpy.c/1.1.1.1/Mon Jan  6 21:08:42 2003//
+/udivdi3.c/1.1.1.1/Mon Jan  6 21:08:42 2003//
+D

@@ -1,0 +1,9 @@
+/Makefile.inc/1.1.1.1/Mon Jan  6 21:00:09 2003/-ko/
+/__error.c/1.1.1.1/Mon Jan  6 21:00:09 2003/-ko/
+/ftruncate.c/1.1.1.1/Mon Jan  6 21:00:09 2003/-ko/
+/lseek.c/1.1.1.1/Mon Jan  6 21:00:09 2003/-ko/
+/mmap.c/1.1.1.1/Mon Jan  6 21:00:09 2003/-ko/
+/pread.c/1.1.1.1/Mon Jan  6 21:00:09 2003/-ko/
+/pwrite.c/1.1.1.1/Mon Jan  6 21:00:09 2003/-ko/
+/truncate.c/1.1.1.1/Mon Jan  6 21:00:09 2003/-ko/
+D

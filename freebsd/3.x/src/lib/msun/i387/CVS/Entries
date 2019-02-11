@@ -1,0 +1,25 @@
+/e_acos.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/e_asin.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/e_atan2.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/e_exp.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/e_fmod.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/e_log.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/e_log10.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/e_remainder.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/e_scalb.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/e_sqrt.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/s_atan.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/s_ceil.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/s_copysign.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/s_cos.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/s_finite.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/s_floor.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/s_ilogb.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/s_log1p.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/s_logb.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/s_rint.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/s_scalbn.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/s_significand.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/s_sin.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+/s_tan.S/1.1.1.1/Mon Jan  6 21:00:10 2003/-ko/
+D

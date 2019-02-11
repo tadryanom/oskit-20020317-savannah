@@ -1,0 +1,16 @@
+/GNUmakefile.in/1.1.1.1/Mon Jan  6 21:03:20 2003/-ko/
+/GNUmakerules/1.2/Wed May 21 07:47:10 2003/-ko/
+/README/1.1.1.1/Mon Jan  6 21:03:20 2003/-ko/
+/char.c/1.2/Wed May 21 07:47:10 2003/-ko/
+/conf.c/1.1.1.1/Mon Jan  6 21:03:20 2003/-ko/
+/global.h/1.1.1.1/Mon Jan  6 21:03:20 2003/-ko/
+/if.c/1.1.1.1/Mon Jan  6 21:03:20 2003/-ko/
+/if_spppsubr.c/1.1.1.1/Mon Jan  6 21:03:20 2003/-ko/
+/init_all.c/1.1.1.1/Mon Jan  6 21:03:20 2003/-ko/
+/init_isa.c/1.1.1.1/Mon Jan  6 21:03:20 2003/-ko/
+/init_osenv.c/1.1.1.1/Mon Jan  6 21:03:20 2003/-ko/
+/ioconf.c/1.1.1.1/Mon Jan  6 21:03:20 2003/-ko/
+/isa.c/1.2/Wed May 21 07:47:10 2003/-ko/
+/isa_glue.h/1.1.1.1/Mon Jan  6 21:03:20 2003/-ko/
+/isadrivers.awk/1.1.1.1/Mon Jan  6 21:03:20 2003/-ko/
+D

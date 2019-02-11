@@ -1,0 +1,26 @@
+/Makefile.inc/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/ansi.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/big5.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/collate.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/collate.h/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/collcmp.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/euc.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/frune.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/isctype.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/lconv.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/localeconv.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/mbrune.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/mskanji.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/nomacros.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/none.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/rune.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/runetype.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/setinvalidrune.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/setlocale.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/setlocale.h/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/setrunelocale.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/table.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/tolower.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/toupper.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+/utf2.c/1.1.1.1/Mon Jan  6 20:59:41 2003/-ko/
+D

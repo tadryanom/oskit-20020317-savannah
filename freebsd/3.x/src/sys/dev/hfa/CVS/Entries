@@ -1,0 +1,20 @@
+/fore.h/1.1.1.1/Mon Jan  6 21:00:51 2003/-ko/
+/fore_aali.h/1.1.1.1/Mon Jan  6 21:00:51 2003/-ko/
+/fore_buffer.c/1.1.1.1/Mon Jan  6 21:00:51 2003/-ko/
+/fore_command.c/1.1.1.1/Mon Jan  6 21:00:51 2003/-ko/
+/fore_globals.c/1.1.1.1/Mon Jan  6 21:00:51 2003/-ko/
+/fore_if.c/1.1.1.1/Mon Jan  6 21:00:51 2003/-ko/
+/fore_include.h/1.1.1.1/Mon Jan  6 21:00:51 2003/-ko/
+/fore_init.c/1.1.1.1/Mon Jan  6 21:00:52 2003/-ko/
+/fore_intr.c/1.1.1.1/Mon Jan  6 21:00:52 2003/-ko/
+/fore_load.c/1.1.1.1/Mon Jan  6 21:00:52 2003/-ko/
+/fore_output.c/1.1.1.1/Mon Jan  6 21:00:52 2003/-ko/
+/fore_receive.c/1.1.1.1/Mon Jan  6 21:00:53 2003/-ko/
+/fore_slave.h/1.1.1.1/Mon Jan  6 21:00:53 2003/-ko/
+/fore_stats.c/1.1.1.1/Mon Jan  6 21:00:53 2003/-ko/
+/fore_stats.h/1.1.1.1/Mon Jan  6 21:00:53 2003/-ko/
+/fore_timer.c/1.1.1.1/Mon Jan  6 21:00:53 2003/-ko/
+/fore_transmit.c/1.1.1.1/Mon Jan  6 21:00:53 2003/-ko/
+/fore_var.h/1.1.1.1/Mon Jan  6 21:00:53 2003/-ko/
+/fore_vcm.c/1.1.1.1/Mon Jan  6 21:00:53 2003/-ko/
+D
